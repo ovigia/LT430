@@ -1,3 +1,7 @@
+---
+output: rmarkdown::github_document
+---
+
 # LT430
 configurações do lenovo t430 caseiro
 
